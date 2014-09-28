@@ -2,7 +2,7 @@
 import java.util.Date;
 import java.util.Map;
 
-import java.net.PrintWriter;
+import java.io.PrintWriter;
 
 /**
  * Http response interface.
@@ -37,10 +37,10 @@ public interface Response {
 
 	void addCookie(Cookie cookie);
 
-	void addDateHeader(String name, long date);
+	void addDateHeader(String name, Long date);
 
 	void addHeader(String name, String value);
 
-	void addIntHeader(String name, String value);
+	void addIntHeader(String name, Integer value);
 
 }

@@ -1,4 +1,6 @@
 
+import java.util.Date;
+
 /**
  * Cookie at Server.
  * @author angrilove
@@ -27,6 +29,12 @@ public class Cookie {
 	/** Cookie value */
 	private String value;
 
+	@Override
+	public String toString() {
+		// TODO: 
+		return "(hash)" + name + ":" + value + "@" + version + ".";
+	}
+
 	/**
 	 * Get Cookie Value.
 	 * return value
@@ -45,7 +53,7 @@ public class Cookie {
 	}
 
 	public long getMaxAge() {
-		return new Date() - long;
+		return new Date().getTime() - expires;
 	}
 
 	public String getName() {

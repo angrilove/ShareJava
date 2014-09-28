@@ -1,4 +1,6 @@
-
+//
+// TODO: Simulate Https Request(SSL.) Next Step.
+//
 import java.net.Socket;
 import java.net.URLEncoder;
 
@@ -52,7 +54,7 @@ public class HttpSocket {
 	private final static String HTTP_1_1_PROTOCOL = " HTTP/1.1";
 
 	/**
-	 * Create Socket simulate Http Request.
+	 * Create SOCKET simulate HTTP REQUEST.
 	 */
 	private void httpSocket(String host, int port, String context, String queryString, String postData) throws Exception {
 		Socket socket = new Socket(host, port);
@@ -114,45 +116,4 @@ public class HttpSocket {
 		httpSocket(host, port, context, queryString, postData);
 	}
 
-	// TODO: Simulate Http Upload file.
-	private void httpUpload() throws Exception {
-		Socket socket = new Socket("localhost", 80);
-
-		BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-
-		PrintWriter out = new PrintWriter(socket.getOutputStream());
-
-		StringBuffer sender = new StringBuffer();
-		String postData = "Username=biao&Password=111111&Checked=true";
-		int length = postData.length();
-		sender.append("POST / HTTP/1.1").append(HTTP_LINE)
-			.append("Host: localhost").append(HTTP_LINE)
-			.append("User-Agent: Mozilla/5.0 (Windows NT; AMD64) Socket Proxy").append(HTTP_LINE)
-			.append("Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8").append(HTTP_LINE)
-			.append("Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3").append(HTTP_LINE)
-			.append("Accept-Encoding: gzip, deflate").append(HTTP_LINE)
-			// Maybe Use Content-Type: multipart/form-data better.
-			.append("Content-Type: application/x-www-form-urlencoded").append(HTTP_LINE)
-			.append("Content-Length: ").append(length).append(HTTP_LINE)
-			.append("Connection: keep-alive").append(HTTP_LINE)
-			.append("Pragma: no-cache").append(HTTP_LINE)
-			.append("Cache-Control: no-cache").append(HTTP_LINE)
-			.append(HTTP_LINE)
-			.append(postData).append(HTTP_LINE)
-			.append(HTTP_LINE);
-
-		out.print(sender.toString());
-		out.flush();
-		socket.shutdownOutput();
-
-		String line;
-
-		while((line = in.readLine()) != null) {
-			System.out.println(line);
-		}
-
-		in.close();
-		out.close();
-		socket.close();
-	}
 }
