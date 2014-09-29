@@ -1,10 +1,11 @@
 
 import java.net.Socket;
 
+import java.io.File;
+import java.io.FileReader;
 import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.PrintWriter;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
 import java.io.IOException;
 
 /**
@@ -31,7 +32,7 @@ public class SimulateUpload {
 	private String filename = "README";
 
 	/** File Ext. */
-	private final static String finleext = ".md";
+	private final static String FILE_EXT = ".md";
 
 	/** File directory. */
 	private final static String DIRECTORY = "E:\\Share\\GitHub\\ShareJava\\";
@@ -55,19 +56,23 @@ public class SimulateUpload {
 
 	{
 		try {
-			FileInputStream fileis = new FileInputStream(DIRECTORY + filename + finleext);
-			byte[] bytes = {};
-			if (fileis.read(bytes) != -1) {
-				String data = new String(bytes);
+			File file = new File(DIRECTORY + filename + FILE_EXT);
+			BufferedReader reader = new BufferedReader(new FileReader(file));
+			StringBuffer data = new StringBuffer();
+			String line = null;
+			while ((line = reader.readLine()) != null) {
+				data.append(line).append("\n");
+			}
+			if (data != null) {
 				length = data.length();
 				formData.append("--").append(BOUNDARY).append("\r\n")
-					.append("Content-Disposition: form-data; name=\"file\"; filename=\"").append(filename).append(finleext).append("\"\r\n")
+					.append("Content-Disposition: form-data; name=\"file\"; filename=\"").append(filename).append(FILE_EXT).append("\"\r\n")
 					.append("Content-Type: application/octet-stream\r\n")
 					.append("\r\n")
-					.append(data).append("\r\n\r\n")
+					.append(data).append("\r\n")
 					.append("--").append(BOUNDARY).append("--\r\n");
 			}
-			fileis.close();
+			reader.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -96,9 +101,8 @@ public class SimulateUpload {
 		out.print(sender.toString());
 		out.flush();
 		socket.shutdownOutput();
-
+		System.out.println(sender.toString());
 		String line;
-
 		while((line = in.readLine()) != null) {
 			System.out.println(line);
 		}
