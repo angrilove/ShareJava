@@ -29,6 +29,7 @@
 		if (!move_uploaded_file(
 			$_FILES['file']['tmp_name'],
 			sprintf('./uploads/%s.%s',
+				// Or you can use md5_file.
 				sha1_file($_FILES['file']['tmp_name']),
 				$ext
 			)
