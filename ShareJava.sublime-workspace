@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"indent"
+			],
+			[
+				"get",
+				"getCodeBase"
+			],
+			[
+				"de",
+				"depends"
+			],
+			[
+				"co",
+				"Copy"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"st",
+				"stokenizer"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"strin",
+				"StringTokenizer"
+			],
+			[
+				"re",
+				"repaint"
+			],
+			[
+				"add",
+				"addActionListener"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"labe",
+				"Label"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"a",
+				"applet"
+			],
+			[
+				"ap",
+				"Applet"
+			],
+			[
+				"code",
+				"codebase	Attr"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"c",
+				"classpath"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"des",
+				"destdir"
+			],
+			[
+				"java",
+				"javac"
+			],
+			[
+				"im",
+				"im	import"
+			],
+			[
+				"P",
+				"public"
+			],
+			[
+				"stop",
+				"stopClip"
+			],
+			[
+				"cli",
+				"clipsPlaying"
+			],
+			[
+				"sto",
+				"stopAllClip"
+			],
+			[
+				"aud",
+				"AUDIOS"
+			],
+			[
+				"loo",
+				"loop"
+			],
+			[
+				"clip",
+				"clipIndex"
+			],
+			[
+				"set",
+				"setEnabled"
+			],
+			[
+				"audi",
+				"AudioClip"
+			],
+			[
+				"play",
+				"playClip"
+			],
+			[
+				"but",
+				"Button"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"Che",
+				"CheckboxGroup"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"d",
+				"drawRect"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"image",
+				"imageSize"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"gra",
+				"Graphics2D"
+			],
+			[
+				"i",
+				"imge"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"glo",
+				"globals"
+			],
+			[
+				"t",
+				"throw"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fro",
+				"for	for (…) {…}"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"tabl",
+				"tableName"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"file",
+				"FILE_EXT"
+			],
+			[
+				"Io",
+				"IOException"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"finfo_",
+				"finfo_close"
+			],
+			[
+				"tmp",
+				"tmp_name"
+			],
+			[
+				"finfo",
+				"finfo_file"
+			],
+			[
+				"sha1",
+				"sha1_file"
+			],
+			[
+				"md",
+				"md5_file"
+			],
+			[
+				"upload",
+				"uploads"
+			],
+			[
+				"sco",
+				"Socket"
+			],
+			[
+				"File",
+				"FileInputStream"
+			],
+			[
+				"http",
+				"httpUpload"
+			],
+			[
+				"Sim",
+				"SimulateUpload"
+			],
+			[
+				"bour",
+				"BOUNDARY"
+			],
+			[
+				"form",
+				"form-data"
+			],
+			[
+				"bo",
+				"BOUNDARY"
+			],
+			[
+				"dire",
+				"DIRECTORY"
+			],
+			[
+				"por",
+				"PORT"
+			],
+			[
+				"Host",
+				"HOST"
+			],
+			[
+				"host",
+				"Host"
+			],
+			[
+				"string",
+				"StringBuffer"
+			],
+			[
+				"HTTPS",
+				"httpSocket"
+			],
+			[
+				"HTTP_",
+				"HTTP_1_1_PROTOCOL"
+			],
+			[
+				"htt",
+				"HTTP_LINE"
+			],
+			[
+				"q",
+				"queryString"
+			],
+			[
+				"h",
+				"HTTP_LINE"
+			],
+			[
+				"B",
+				"BufferedReader"
+			],
+			[
+				"e",
+				"encode"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"String",
+				"StringBuffer"
+			],
+			[
+				"HTTP",
+				"HTTP_NEW_LINE"
+			],
+			[
+				"HTT",
+				"HTTP_NEW_LINE"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"DSYW_BM",
+				"DSYW_BM_ZD"
+			],
+			[
+				"dsyw_bm",
+				"DSYW_BM_XTFL"
+			],
+			[
+				"where",
+				"WHERE"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"jsn",
+				"Indent JSON"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"int",
+				"Indent XML"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ant",
+				"Super Ant - List Targets"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"java",
+				"Preferences: Javatar Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"JAVA",
+				"Set Syntax: Java"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"groo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript (Literate)"
+			],
+			[
+				"mark",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makr",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 366.0,
+		"history":
+		[
+			"len('d7a521791f47949ac2c45aee91387c3d')",
+			"len('6f748d6fbd9bd57eb768a15768cf231535589693')",
+			"'6f748d6fbd9bd57eb768a15768cf231535589693'.len",
+			"cmd",
+			"javac --version",
+			"javac HttpSocket.java",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Workspace/MyEclipse 10/xx/src/ex4me/Person.java",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_commons-launcher-1.1-src.zip/commons-launcher/build.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.845.265/HZ$D.845.268/indentxml.py",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.845.265/HZ$D.845.267/indentxml.py",
+		"/C/Users/Administrator/Desktop/d.json",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.688.4978/HZ$D.688.4979/indentxml.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win32-p3/PyV8.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win32-p3/config.json",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.276.4167/HZ$D.276.4168/indentxml.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Indent XML.sublime-package",
+		"/D/商密/商密技术事业部/项目/电子认证服务平台/SM2升级/文档/设计/电子认证服务平台单点登录权限和菜单交互文件.json",
+		"/D/商密/商密技术事业部/项目/电子认证服务平台/SM2升级/文档/设计/电子认证服务平台单点登录权限和菜单交互文件.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.097.958/HZ$D.097.959/indentxml.py",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.551.3596/HZ$D.551.3598/indentxml.py",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.551.3596/HZ$D.551.3597/indentxml.py",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.430.4121/HZ$D.430.4122/indentxml.py",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.276.466/HZ$D.276.467/indentxml.py",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.664.4725/HZ$D.664.4727/indentxml.py",
+		"/C/Users/Administrator/AppData/Roaming/npm-cache/registry.npmjs.org/osenv/.cache.json",
+		"/D/Workspace/Java2D/build.xml",
+		"/D/商密/README.md",
+		"/D/PuTTY/help.html",
+		"/D/商密/商密技术事业部/项目/电子认证服务平台/SM2升级/文档/设计/Interactive(Default).xml",
+		"/D/商密/商密技术事业部/项目/电子认证服务平台/SM2升级/Interactive(Default).xml",
+		"/M/数据库软件/MS SQL Server/sqljdbc_3.0/chs/install.txt",
+		"/M/数据库软件/MS SQL Server/SQL Server 2008.iso.txt",
+		"/M/数据库软件/MS SQL Server/sql2005jdbc_chs/西西软件园.txt",
+		"/D/商密/商密技术事业部/项目/电子认证服务平台/SM2升级/(Default).xml",
+		"/M/数据库软件/MS SQL Server/Microsoft SQL Server JDBC Driver 3.0/sqljdbc_3.0/chs/install.txt",
+		"/M/数据库软件/数据库管理/kcwin32/doc/index.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ase157_winx86.zip/sample_response.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/suite/com/sybase/sis/lang/SybaseLicensePanel_zh.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/suite/com/sybase/sis/lang/SISResourceBundle_zh.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/suite/e210e0de62398ae8007d171ca0a21b47/wizard.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/JVM/README.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_10201_gateways_win32.zip/gateways/welcome.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_10201_clusterware_win32.zip/clusterware/welcome.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_10201_client_win32.zip/client/welcome.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_sqljet-1.1.6-all.zip/sqljet-1.1.6/README.txt",
+		"/D/Minecraft1.8/mclauncher.cfg",
+		"/D/Workspace/Java2D/resources/html/Scribble.html",
+		"/D/Workspace/Java2D/src/alpha/draw/Scribble.java",
+		"/D/Workspace/Java2D/resources/html/Scribble",
+		"/D/Workspace/Java2D/resources/html/ActApplet.html",
+		"/D/Minecraft1.8/hs_err_pid7556.log",
+		"/D/Minecraft1.8/.minecraft/launcher_profiles.json",
+		"/D/Atom/LICENSE",
+		"/D/Atom/version",
+		"/D/apache-ant-1.9.4/fetch.xml",
+		"/L/编程工具/develope/apache-tomcat-7.0.54/apache-tomcat-7.0.54/webapps/docs/appdev/sample/src/mypackage/Hello.java",
+		"/M/我的电子档/Java相关资料/JavaServerFaces/978-7-302-18549-9/JavaServer Faces核心编程（第2版）/ch13/error/src/java/com/corejsf/UserBean.java",
+		"/D/Workspace/Java2D/resources/html/AttributeTest.html",
+		"/D/Workspace/Java2D/resources/html/MouseTest.html",
+		"/D/Workspace/Java2D/src/alpha/event/MuseTest.java",
+		"/D/Workspace/Java2D/src/alpha/AttributeTest.java",
+		"/O/游戏拷贝/Minecraft/README.txt",
+		"/O/游戏拷贝/Minecraft/完整程序/1.8官方原版/README.txt",
+		"/C/Users/Administrator/Desktop/.minecraft/mclauncher.cfg",
+		"/C/Users/Administrator/Desktop/.minecraft/launcher_profiles.json",
+		"/C/Users/Administrator/AppData/Local/Temp/基础启动器源码/实用模块.ec",
+		"/C/Users/Administrator/AppData/Local/Temp/基础启动器源码/minecraft启动器纯源码.e",
+		"/C/Users/Administrator/Desktop/.minecraft/versions/1.8/1.8.json",
+		"/C/Users/Administrator/Desktop/.minecraft/assets/indexes/1.8.json",
+		"/D/MC/server.properties",
+		"/D/MC/eula.txt",
+		"/D/MC/logs/latest.log",
+		"/O/游戏拷贝/Minecraft/完整程序/1.8官方原版/server.properties",
+		"/M/游戏和设计/Java游戏开发.txt",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/launcher_profiles.json",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/versions/1.8/1.8.json",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/logs/latest.log",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_1.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_2.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_3.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_4.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_0.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/mods/VoxelMods/voxelMap/Fuck World.~.minecraft.points",
+		"/D/Minecraft1.8/.minecraft/options.txt",
+		"/D/Minecraft1.8完整版本/mclauncher.cfg",
+		"/D/Minecraft1.8完整版本/hs_err_pid11692.log",
+		"/D/Workspace/Java2D/resources/html/CardLayoutTest.html",
+		"/D/Workspace/Java2D/resources/html/CardTest.html",
+		"/D/Workspace/Java2D/resources/html/PanelTest.html",
+		"/C/Grails/doc/api/grails/converters/JSON.Builder.html",
+		"/C/Users/Administrator/AppData/Roaming/npm-cache/registry.npmjs.org/abbrev/.cache.json",
+		"/D/Workspace/Java2D/resources/html/BorderLayoutTest.html",
+		"/D/Workspace/Java2D/resources/html/FlowLayoutTest.html",
+		"/D/Workspace/LUNA/j2d/bin/java.policy.applet",
+		"/C/Users/Administrator/Desktop/LEARNING -py.md",
+		"/C/Users/Administrator/Desktop/2012112615251290.png",
+		"/N/各公司架构/7E11CCDB1905 Created by mindnote pro.png",
+		"/N/各公司架构/7E11CCDB1905.png",
+		"/D/PythonScript/PythonScript/scripts/startup.py",
+		"/D/PythonScript/PythonScript/lib/ntpath.py",
+		"/D/新建文件夹/PythonScript/scripts/startup.py",
+		"/D/新建文件夹/PythonScript/lib/mimify.py",
+		"/D/Workspace/Java2D/src/alpha/HashTest.java",
+		"/N/编辑器/Atom编辑器安装/Atom编辑器安装.txt",
+		"/D/Minecraft1.8完整版本/textures_0.png",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_MesaLib-10.2.2.zip/Mesa-10.2.2/src/egl/drivers/dri2/egl_dri2_fallbacks.h",
+		"/D/Workspace/Java2D/src/alpha/AudioChoiceTest.java",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_MesaLib-10.2.2.zip/Mesa-10.2.2/src/egl/drivers/dri2/egl_dri2.h",
+		"/D/Minecraft1.8完整版本/.minecraft/launcher_profiles.json",
+		"/D/Minecraft1.8完整版本/.minecraft/versions/1.8.2/14w30c.json",
+		"/D/Minecraft1.8完整版本/.minecraft/versions/1.8/1.8.json",
+		"/D/Minecraft1.8完整版本/.minecraft/options.txt",
+		"/D/Minecraft1.8完整版本/.minecraft/assets/indexes/1.8.json",
+		"/D/Workspace/Java2D/src/alpha/AudioClipTest.java",
+		"/D/Workspace/WebServicesTest/TestServerService-soapui-project.xml",
+		"/D/Workspace/Eclipse/ExportJavaCode/jdbc.properties",
+		"/F/Workspace备份/backstage/WebContent/static/kindeditor-4.1.10/jsp/upload_json.jsp",
+		"/C/Users/Administrator/AppData/Roaming/Tencent/QQ/Misc/qqstatic/index.json",
+		"/C/Users/Administrator/AppData/Local/Temp/38fdaae5-8e0e-493c-88ec-e05c3be06e42/manifest.json",
+		"/C/Users/Administrator/AppData/Local/Temp/006eea58-d2dc-4e58-9341-d301696056e2.json",
+		"/D/Minecraft1.8完整版本/.minecraft/saves/Create World_/stats/9c45ca93-3d48-3de5-a933-e664ce8bfda7.json",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/opener/package.json",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/npmconf/node_modules/config-chain/test/broken.json",
+		"/C/Grails/doc/api/grails/converters/JSON.html",
+		"/D/Workspace/Java2D/Java2D.sublime-project",
+		"/D/Workspace/Java2D/src/alpha/GridTest.java",
+		"/D/Workspace/Java2D/resouces/html/ActApplet.html",
+		"/D/Workspace/Java2D/resouces/html/AudioChoiceTest.html",
+		"/D/Workspace/Java2D/resouces/html/AudioClipTest.html",
+		"/D/Workspace/Java2D/resouces/html/CheckboxTest.html",
+		"/D/Workspace/Java2D/resouces/html/GridTest.html",
+		"/D/Workspace/Java2D/resouces/html/HashTest.html",
+		"/D/Workspace/Java2D/resouces/html/LayoutTest.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"indent",
+			"			\n",
+			"inputTextField",
+			"repaint",
+			"encoding",
+			"location",
+			"minimap",
+			"border",
+			";\n",
+			"CN",
+			"lang",
+			"map",
+			"getname",
+			"new date",
+			"key",
+			"word_wrap",
+			"update_check",
+			"processInstanceId",
+			"Grails",
+			"Grails-grailsPlugins.iml",
+			"DSYW_BM_XTFL",
+			"				\n",
+			"203.208.46",
+			"REM",
+			"strPrivKeyDevParam"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"text",
+			"name"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 258.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Workspace\\Java2D\\Java2D.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,3 +1,4 @@
+package socket;
 
 /**
  * AnalysisResponse

@@ -1,7 +1,9 @@
+package stringencoding;
 
 import java.net.URLEncoder;
 
 public class EncoderTest {
+	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 		String postData = "Username=biao&Password=111111&checked=true";
 
