@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"User",
+				"User"
+			],
+			[
 				"in",
 				"indent"
 			],
@@ -376,9 +380,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"java",
+				"Set Syntax: Java"
+			],
 			[
 				"json",
 				"Indent JSON"
@@ -418,10 +426,6 @@
 			[
 				"j",
 				"Set Syntax: JSON"
-			],
-			[
-				"java",
-				"Preferences: Javatar Settings – User"
 			],
 			[
 				"ins",
@@ -532,6 +536,18 @@
 	},
 	"file_history":
 	[
+		"/E/Share/GitHub/ShareJava/src/betwixt/build/Userrole.java",
+		"/E/Share/GitHub/ShareJava/build.xml",
+		"/E/Share/GitHub/ShareJava/src/betwixt/build/System.java",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Javatar/Default (Windows).sublime-keymap",
+		"/E/Share/GitHub/ShareJava/src/betwixt/PersonBean.java",
+		"/E/Share/GitHub/ShareJava/.gitattributes",
+		"/E/Share/GitHub/ShareJava/.gitignore",
+		"/E/Share/GitHub/ShareJava/README.md",
+		"/E/Share/GitHub/ShareJava/ShareJava.sublime-project",
+		"/E/Share/GitHub/ShareJava/src/betwixt/ReadExampleApp.java",
+		"/E/Share/GitHub/ShareJava/src/betwixt/WriteExampleApp.java",
+		"/E/Share/GitHub/ShareJava/src/betwixt/WriteExampleApp",
 		"/D/Workspace/MyEclipse 10/xx/src/ex4me/Person.java",
 		"/C/Users/Administrator/AppData/Local/Temp/Temp1_commons-launcher-1.1-src.zip/commons-launcher/build.xml",
 		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.845.265/HZ$D.845.268/indentxml.py",
@@ -647,19 +663,7 @@
 		"/C/Users/Administrator/AppData/Roaming/Tencent/QQ/Misc/qqstatic/index.json",
 		"/C/Users/Administrator/AppData/Local/Temp/38fdaae5-8e0e-493c-88ec-e05c3be06e42/manifest.json",
 		"/C/Users/Administrator/AppData/Local/Temp/006eea58-d2dc-4e58-9341-d301696056e2.json",
-		"/D/Minecraft1.8完整版本/.minecraft/saves/Create World_/stats/9c45ca93-3d48-3de5-a933-e664ce8bfda7.json",
-		"/C/Program Files/nodejs/node_modules/npm/node_modules/opener/package.json",
-		"/C/Program Files/nodejs/node_modules/npm/node_modules/npmconf/node_modules/config-chain/test/broken.json",
-		"/C/Grails/doc/api/grails/converters/JSON.html",
-		"/D/Workspace/Java2D/Java2D.sublime-project",
-		"/D/Workspace/Java2D/src/alpha/GridTest.java",
-		"/D/Workspace/Java2D/resouces/html/ActApplet.html",
-		"/D/Workspace/Java2D/resouces/html/AudioChoiceTest.html",
-		"/D/Workspace/Java2D/resouces/html/AudioClipTest.html",
-		"/D/Workspace/Java2D/resouces/html/CheckboxTest.html",
-		"/D/Workspace/Java2D/resouces/html/GridTest.html",
-		"/D/Workspace/Java2D/resouces/html/HashTest.html",
-		"/D/Workspace/Java2D/resouces/html/LayoutTest.html"
+		"/D/Minecraft1.8完整版本/.minecraft/saves/Create World_/stats/9c45ca93-3d48-3de5-a933-e664ce8bfda7.json"
 	],
 	"find":
 	{
@@ -796,8 +800,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 237.0,
+	"side_bar_visible": false,
+	"side_bar_width": 229.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

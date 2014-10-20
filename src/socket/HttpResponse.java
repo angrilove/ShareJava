@@ -13,6 +13,8 @@ import java.io.Serializable;
  */
 public class HttpResponse implements Serializable, Response {
 
+	private static final long serialVersionUID = 1L;
+
 	private PrintWriter out;
 
 	private HashMap<String, String> headers;
@@ -110,6 +112,58 @@ public class HttpResponse implements Serializable, Response {
 	@Override
 	public void addIntHeader(String name, Integer value) {
 		// TODO: add Integer Header.
+	}
+
+	public PrintWriter getOut() {
+		return out;
+	}
+
+	public void setOut(PrintWriter out) {
+		this.out = out;
+	}
+
+	public HashMap<String, Cookie> getCookies() {
+		return cookies;
+	}
+
+	public void setCookies(HashMap<String, Cookie> cookies) {
+		this.cookies = cookies;
+	}
+
+	public String getContentType() {
+		return contentType;
+	}
+
+	public void setContentType(String contentType) {
+		this.contentType = contentType;
+	}
+
+	public String getCharset() {
+		return charset;
+	}
+
+	public void setCharset(String charset) {
+		this.charset = charset;
+	}
+
+	public boolean isBuffer() {
+		return buffer;
+	}
+
+	public void setBuffer(boolean buffer) {
+		this.buffer = buffer;
+	}
+
+	public Integer getStatus() {
+		return status;
+	}
+
+	public void setHeaders(HashMap<String, String> headers) {
+		this.headers = headers;
+	}
+
+	public void setParameters(HashMap<String, String> parameters) {
+		this.parameters = parameters;
 	}
 
 }

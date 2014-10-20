@@ -2,12 +2,10 @@ package socket;
 //
 // TODO: Simulate Https Request(SSL.) Next Step.
 //
-import java.net.Socket;
-import java.net.URLEncoder;
-
 import java.io.BufferedReader;
-import java.io.PrintWriter;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.net.Socket;
 
 /**
  * Socket Simulate Http Request and Analysis Response.
@@ -50,8 +48,8 @@ public class HttpSocket {
 	}
 
 	private final static String HTTP_LINE = "\r\n";
-	private final static String HTTP_0_9_PROTOCOL = " HTTP/0.9";
-	private final static String HTTP_1_0_PROTOCOL = " HTTP/1.0";
+//	private final static String HTTP_0_9_PROTOCOL = " HTTP/0.9";
+//	private final static String HTTP_1_0_PROTOCOL = " HTTP/1.0";
 	private final static String HTTP_1_1_PROTOCOL = " HTTP/1.1";
 
 	/**
